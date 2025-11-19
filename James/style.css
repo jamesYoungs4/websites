@@ -19,6 +19,9 @@
     text-align: center;
     background-color: rbga(1,1,1,0);
     float: right;
+    text-overflow: ellipsis ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
 }
 body{
     background-image: url(Images/Background.png);
