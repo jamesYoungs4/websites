@@ -21,7 +21,6 @@
     float: right;
     text-overflow: ellipsis ellipsis;
     overflow: hidden;
-    white-space: nowrap;
 }
 body{
     background-image: url(Images/Background.png);
